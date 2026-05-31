@@ -6,4 +6,4 @@
 
 **1. Dont use it in servers. Yes we DO have a channel command, but you cant use it in servers, but the channel command does not work. In case you want to do it in channels, like servers, just use !terror @user amount...**
 
-**2. Dont spam !terror @user amount for over 2 times. This can get you supended from  chatting/joining svs, suspended for some days, and in many cases, banned.**
+**2. Dont spam !terror @user amount for over 2 times. This can get you supended from  chatting/joining svs, suspended for some days, and in many cases, banned. Or in many cases you wont even get a warning**
